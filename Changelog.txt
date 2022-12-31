@@ -1,0 +1,11 @@
+---------------------------------------------26 / 08 / 2015----------------------------------------------------
+
+The problem of uppercases characters in the installation script has been solved .
+
+---------------------------------------------19 / 04 / 2016----------------------------------------------------
+
+Removed Inguma from the menu to bypass issue with installation (By Jayson Grace : https://github.com/l50)
+
+---------------------------------------------31 / 12 / 2022----------------------------------------------------
+
+Updaing katoolin.py from Python2 to Python3 (By Rouis Abdelkader : https://github.com/bitpIus)
